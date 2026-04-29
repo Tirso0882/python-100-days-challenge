@@ -11,31 +11,6 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 
 ---
 
-## 📁 Project Structure
-
-```
-python-100-days-challenge/
-├── day_1/
-│   └── for_loops.py          # For loops + password generator
-├── day_2/
-│   └── conditionals/
-│       ├── rps_art.py         # ASCII art for Rock Paper Scissors
-│       └── rock-paper-scissors-game.py   # Rock Paper Scissors (PvP + vs Computer)
-├── day_3/
-│   └── hangman_game/
-│       ├── hangman_art.py     # ASCII art & colour constants
-│       ├── hangman_words.py   # Word bank
-│       └── hangman.py         # Hangman game
-├── day_4/
-│   └── functions.py          # Functions + Caesar cipher encoder/decoder
-└── day_5/
-    ├── bid_art.py             # ASCII art for the auction
-    ├── bid_game.py            # Secret auction / bid game
-    └── dictionaries.py        # Dictionaries practice
-```
-
----
-
 ## 📅 Daily Log
 
 | Day | Topic | Project |
@@ -65,7 +40,7 @@ python day_4/functions.py
 python day_5/bid_game.py
 ```
 
-No external dependencies — everything uses the Python standard library.
+No external dependencies - Everything uses the Python standard library 😊
 
 ---
 
