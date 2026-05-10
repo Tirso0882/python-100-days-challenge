@@ -20,6 +20,8 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 3 | Strings & imports | 🪢 Hangman |
 | Day 4 | Functions | 🔑 Caesar Cipher Machine |
 | Day 5 | Dictionaries & while loops | 🔨 Secret Auction |
+| Day 6 | Functions & outputs | 🧮 Calculator |
+| Day 7 | Global & local scope | 🎯 Number Guessing Game |
 
 ---
 
@@ -38,6 +40,8 @@ python day_2/conditionals/rock-paper-scissors-game.py
 python day_3/hangman_game/hangman.py
 python day_4/functions.py
 python day_5/bid_game.py
+python day_6/calculator/calculator_program.py
+python day_7/global_and_local_scope.py
 ```
 
 No external dependencies - Everything uses the Python standard library 😊
