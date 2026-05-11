@@ -22,6 +22,7 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 5 | Dictionaries & while loops | 🔨 Secret Auction |
 | Day 6 | Functions & outputs | 🧮 Calculator |
 | Day 7 | Global & local scope | 🎯 Number Guessing Game |
+| Day 8 | Debugging | 🐛 Debugging Guide |
 
 ---
 
@@ -42,6 +43,7 @@ python day_4/functions.py
 python day_5/bid_game.py
 python day_6/calculator/calculator_program.py
 python day_7/global_and_local_scope.py
+python day_8/debugging_guide.py
 ```
 
 No external dependencies - Everything uses the Python standard library 😊
