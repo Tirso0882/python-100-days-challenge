@@ -23,6 +23,7 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 6 | Functions & outputs | 🧮 Calculator |
 | Day 7 | Global & local scope | 🎯 Number Guessing Game |
 | Day 8 | Debugging | 🐛 Debugging Guide |
+| Day 9 | Functions & Decomposition | 📊 Higher or Lower Game |
 
 ---
 
@@ -44,6 +45,7 @@ python day_5/bid_game.py
 python day_6/calculator/calculator_program.py
 python day_7/global_and_local_scope.py
 python day_8/debugging_guide.py
+python day_9/enhanced_game.py
 ```
 
 No external dependencies - Everything uses the Python standard library 😊
