@@ -26,6 +26,7 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 9 | Functions & Decomposition | 📊 Higher or Lower Game |
 | Day 11 | OOP & Classes | 🧠 Quizzy McBrainrot (Quiz Game) |
 | Day 12 | Turtle Graphics & Random | 🎨 Random Walk & Polygon Drawer |
+| Day 13 | Higher-Order Functions & Events | 🐢 Turtle Racing Championship |
 
 ---
 
@@ -50,6 +51,7 @@ python day_8/debugging_guide.py
 python day_9/enhanced_game.py
 python day_11/quiz-game-start/main.py
 python day_12/turtle_gui.py
+python day_13/turtle_competition.py
 ```
 
 No external dependencies - Everything uses the Python standard library 😊
