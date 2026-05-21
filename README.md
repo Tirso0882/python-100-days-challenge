@@ -25,6 +25,7 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 8 | Debugging | 🐛 Debugging Guide |
 | Day 9 | Functions & Decomposition | 📊 Higher or Lower Game |
 | Day 11 | OOP & Classes | 🧠 Quizzy McBrainrot (Quiz Game) |
+| Day 12 | Turtle Graphics & Random | 🎨 Random Walk & Polygon Drawer |
 
 ---
 
@@ -48,6 +49,7 @@ python day_7/global_and_local_scope.py
 python day_8/debugging_guide.py
 python day_9/enhanced_game.py
 python day_11/quiz-game-start/main.py
+python day_12/turtle_gui.py
 ```
 
 No external dependencies - Everything uses the Python standard library 😊
