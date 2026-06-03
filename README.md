@@ -27,6 +27,7 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 11 | OOP & Classes | 🧠 Quizzy McBrainrot (Quiz Game) |
 | Day 12 | Turtle Graphics & Random | 🎨 Random Walk & Polygon Drawer |
 | Day 13 | Higher-Order Functions & Events | 🐢 Turtle Racing Championship |
+| Day 14 | OOP & Turtle Graphics | 🐍 Snake Game (WIP) |
 
 ---
 
@@ -52,6 +53,7 @@ python day_9/enhanced_game.py
 python day_11/quiz-game-start/main.py
 python day_12/turtle_gui.py
 python day_13/turtle_competition.py
+python day_14/snake_game/main.py
 ```
 
 No external dependencies - Everything uses the Python standard library 😊
