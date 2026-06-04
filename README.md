@@ -27,7 +27,7 @@ A daily Python practice journal, where I am revisiting the fundamentals, sharpen
 | Day 11 | OOP & Classes | 🧠 Quizzy McBrainrot (Quiz Game) |
 | Day 12 | Turtle Graphics & Random | 🎨 Random Walk & Polygon Drawer |
 | Day 13 | Higher-Order Functions & Events | 🐢 Turtle Racing Championship |
-| Day 14 | OOP & Turtle Graphics | 🐍 Snake Game (WIP) |
+| Day 14 | OOP, Classes & tkinter GUI | 🐍 SNEAKY 3D — Enhanced Snake Game |
 
 ---
 
