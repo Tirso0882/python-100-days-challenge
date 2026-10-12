@@ -30,3 +30,9 @@ ENV/
 dist/
 build/
 *.egg-info/
+
+# JSON extension files
+*.json
+
+# Scripts
+publish-via-github-api.sh
